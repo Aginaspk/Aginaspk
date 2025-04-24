@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋 About Me:
 I'm a passionate and dedicated MERN Stack Developer with strong experience in building dynamic, high-performance web applications using MongoDB, Express.js, React, and Node.js. I specialize in creating clean, maintainable code and delivering seamless, responsive user experiences. My projects reflect my skills in implementing secure authentication systems using JWT, integrating powerful tools like Redux for state management, and using Tailwind CSS for modern UI design. I’ve developed full-stack applications including an e-commerce platform and a movie review website, both featuring optimized backends, intuitive frontends, and real-world features like Stripe payments and Cloudinary image uploads. Currently, I’m interning at Bridgeon Solutions, where I focus on developing scalable applications, improving backend performance, and following best practices in RESTful API design and secure coding. Always eager to explore new technologies, I enjoy solving challenges and continuously growing as a developer.
 
 
