@@ -23,7 +23,7 @@ const aginas = {
 
 🌱 **Expertise:** React, Node.js, MongoDB, Express.js, JWT, Redux
 
-💡 **Projects:** E-commerce platform, Movie review website with Stripe & Cloudinary
+💡 **Projects:** Sports community platform, E-commerce platform, Movie review website with Stripe & Cloudinary
 
 ---
 
