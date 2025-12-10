@@ -19,7 +19,7 @@ const aginas = {
 
 🎯 Passionate **MERN Stack Developer** building dynamic web applications
 
-🔧 **Currently:** Developing scalable applications at Bridgeon Solutions
+🔧 **Currently:** Developing scalable applications at Tapclone
 
 🌱 **Expertise:** React, Node.js, MongoDB, Express.js, JWT, Redux
 
