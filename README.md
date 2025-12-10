@@ -11,7 +11,7 @@
 ```javascript
 const aginas = {
     role: "MERN Stack Developer",
-    company: "Bridgeon Solutions (Intern)",
+    company: "Tapclone",
     location: "Kerala, India",
     focus: "Full-stack web development"
 };
